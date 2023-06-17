@@ -1,0 +1,21 @@
+{
+    "status":true,
+    "message":"ok",
+    "list":[
+        {
+        "id":1,
+        "name":"电影院1",
+        "desc":"电影院1-desc"
+        },
+        {
+            "id":2,
+            "name":"电影院2",
+            "desc":"电影院2-desc"
+        },
+        {
+            "id":3,
+            "name":"电影院3",
+            "desc":"电影院3-desc"
+        }
+    ]
+}
